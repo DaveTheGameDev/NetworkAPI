@@ -1,0 +1,15 @@
+{
+    "name": "com.davidconway.networkstack.unity",
+    "version": "0.0.1",
+    "displayName": "Installation 01 Networking Unity",
+    "description": "Unity addon for the network stack i made",
+    "unity": "2019.3",
+    "unityRelease": "3f1",
+   "keywords": [
+      "Installation01.Networking"
+    ],
+    "author": {
+      "name": "David Conway",
+      "email": "david@davidconway.dev"
+    }
+  }

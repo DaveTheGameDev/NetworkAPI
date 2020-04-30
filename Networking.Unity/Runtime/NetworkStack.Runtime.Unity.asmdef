@@ -1,0 +1,19 @@
+{
+    "name": "NetworkStack.Runtime.Unity",
+    "references": [
+        "NetworkStack.Runtime",
+        "DeveloperConsole.Runtime",
+        "Unity.Addressables",
+        "Unity.ResourceManager",
+        "NaughtyAttributes.Core"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
